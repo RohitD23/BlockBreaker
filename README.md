@@ -9,4 +9,5 @@ This project is made with the help of **OpenGL**.
 4. **irrKlang**
 5. **FreeType**
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[<img src="https://img.youtube.com/vi/7dY5uNwrOKA/maxresdefault.jpg" width="50%">](https://youtu.be/7dY5uNwrOKA)
+
