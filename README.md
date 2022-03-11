@@ -9,5 +9,11 @@ This project is made with the help of **OpenGL**.
 4. **irrKlang**
 5. **FreeType**
 
-[<img src="https://img.youtube.com/vi/7dY5uNwrOKA/maxresdefault.jpg" width="50%">](https://youtu.be/7dY5uNwrOKA)
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
