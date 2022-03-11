@@ -9,6 +9,6 @@ This project is made with the help of **OpenGL**.
 4. **irrKlang**
 5. **FreeType**
 
-##Game Demo
+## Game Demo
 
 ![BLOCK-BREAKER](https://user-images.githubusercontent.com/37909750/157935272-d3a60960-4d35-487b-a6b7-0442a698a71c.gif)
